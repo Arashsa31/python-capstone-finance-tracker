@@ -1,1 +1,1 @@
-# python-capstone-finance-tracker
+This is a simple Python command-line program to track personal expenses. Users can add expenses with a description, category, and amount, then view all entries or summaries by category. To run it, save the script as `finance_tracker.py` and use `python finance_tracker.py` in the terminal. It uses core Python concepts like variables, data types, functions, loops, dictionaries, tuples, and exception handling.
